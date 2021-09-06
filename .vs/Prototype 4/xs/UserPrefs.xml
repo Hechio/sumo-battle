@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{53F2696F-91F9-D403-3CD8-B368D375157F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SpawnManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/RotateCamera.cs" Line="18" Column="87" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="20" Column="6" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="14" Column="44" />
+      <File FileName="Assets/Scripts/SpawnManager.cs" Line="14" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Prototype 4" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="SpawnManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bf50ceac-49dc-4724-9e19-9d002ed64549" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
